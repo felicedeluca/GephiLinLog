@@ -10,6 +10,9 @@ import java.io.IOException;
 import java.io.StringWriter;
 import org.gephi.io.exporter.api.ExportController;
 import org.gephi.io.exporter.plugin.ExporterGML;
+import org.gephi.io.exporter.plugin.ExporterBuilderGraphML;
+import org.gephi.io.exporter.plugin.ExporterGraphML;
+import org.gephi.io.exporter.plugin.ExporterCSV;
 import org.gephi.project.api.Workspace;
 import org.openide.util.Lookup;
 
